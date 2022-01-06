@@ -24,11 +24,11 @@ https://www.sqlite.org/
 Reference:  
 https://github.com/validitylabs/EthereumDB  by Aleksandra Sokolowska
 
-U2F_Trigger.py:  
+U2F_Trigger.py:    
 	-functionality: The simple version U2F trigger, which triggers if there are too many out trasactions in the past defined days  
 	-author: Mu Changrui  
 
-updateDataBase.py
+updateDataBase.py   
 	-functionality: Access blocks within recent days, and stored in database  
 	-author: Mu Changrui
 
@@ -37,7 +37,7 @@ organize.py:
 	-functionality: store functions for editting SQLite  
 	-author: Aleksandra Sokolowska  
   
-sql_helper.py:  
+sql_helper.py:    
 	-functionality: daos  
 	-author: Aleksandra Sokolowska  
 
